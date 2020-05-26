@@ -1,2 +1,2 @@
 # shorturl
-自己写的spring小demo
+自己写的spring boot小demo
